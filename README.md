@@ -22,6 +22,9 @@
 
        ```npx playwright install --with-deps```
 
+   7. playwright.config.ts already exists. Override it? (y/N) » false  [**NOTE** : **Kindly **DO NOT OVERWRITE** "playwright.config.ts" file, give as **false**]
+
+
 # Folder Structure :
 
   e2e contains 2 folders api and ui
